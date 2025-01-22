@@ -5,9 +5,12 @@ Este proyecto tiene como objetivo analizar el comportamiento de las tecnologías
 # Estructura del Proyecto
 El proyecto está compuesto por los siguientes elementos:
 
-EDA-datos: Análisis exploratorio de datos tabulares. https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-Datos.ipynb
-EDA-georreferencia: Utilización de API para completar Georeferencia. https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-georreferencia.ipynb
-EDA-archivos: Transformación de archivos. https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-archivos.ipynb
+EDA-datos: Análisis exploratorio de datos tabulares. 
+      https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-Datos.ipynb
+EDA-georreferencia: Utilización de API para completar Georeferencia. 
+      https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-georreferencia.ipynb
+EDA-archivos: Transformación de archivos. 
+      https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-archivos.ipynb
 Dashboard: Tablero interactivo en Power BI.
 README.md: Este archivo explicativo del proyecto.
 
