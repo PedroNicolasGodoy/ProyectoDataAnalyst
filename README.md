@@ -55,7 +55,9 @@ El KPI muestra la relación de la cantidad de accesos por hogar en relación a l
 
 ![image](https://github.com/user-attachments/assets/bc405071-7b1f-40b1-9a9c-b43ded28d93b)
 
-Cuando hablamos de otros productos, nos referimos a "TV por suscripción y satelital" y a "Telefonía prepago, postpago y operativo" podemos ver otro nicho con mucha oportunidad
+Cuando hablamos de otros productos, nos referimos a "TV por suscripción y satelital" y a "Telefonía prepago, postpago y operativo" podemos ver otro nicho con mucha oportunidad. 
+
+Cabe aclarar que en el gráfico de TV, en el año 2024 únicamente contamos con datos del Trimestre 1 y 2, distinto a los demás años que están completos.
 
 ![image](https://github.com/user-attachments/assets/f8ba20dd-1de0-4eb4-9381-f51cb6c5c742)
 
