@@ -9,13 +9,13 @@ EDA-datos: Análisis exploratorio de datos tabulares.
 
       https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-Datos.ipynb
       
-EDA-georreferencia: Utilización de API para completar Georeferencia. 
+georef-notebook: Utilización de API para completar Georeferencia. 
 
-      https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-georreferencia.ipynb
+      https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/georef-notebook.ipynb
       
-EDA-archivos: Transformación de archivos. 
+FormatFile-notebook: Transformación de archivos. 
 
-      https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/EDA-archivos.ipynb
+      https://github.com/PedroNicolasGodoy/ProyectoDataAnalyst/blob/main/FormatFile-notebook.ipynb
       
 Dashboard: Tablero interactivo en Power BI.
 README.md: Este archivo explicativo del proyecto.
