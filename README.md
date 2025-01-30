@@ -81,8 +81,16 @@ Provincias con mayor conectividad: Buenos Aires, Santa Fe, Córdoba y Mendoza so
 
 # Requisitos para Ejecutar el Proyecto
 Python (con las siguientes librerías):
+
 pandas
+
 matplotlib
+
 seaborn
+
 os
+
+
+
 Power BI: Para visualizar el tablero interactivo.
+
