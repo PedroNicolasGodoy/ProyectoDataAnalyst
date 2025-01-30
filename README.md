@@ -1,5 +1,5 @@
 # Análisis de las Telecomunicaciones: Internet, Telefonía Móvil y Televisión
-Descripción del Proyecto
+
 Este proyecto tiene como objetivo analizar el comportamiento de las tecnologías de comunicación, como internet, telefonía móvil y televisión, para ofrecer soluciones personalizadas a un cliente. Los resultados pueden ayudar a diseñar estrategias para la expansión de productos, mejorar la calidad de los servicios y brindar mayores soluciones a los clientes.
 
 # Estructura del Proyecto
